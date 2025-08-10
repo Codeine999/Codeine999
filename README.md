@@ -1,6 +1,6 @@
 
 <!-- Title -->
-<h1>Hi, I'm YOUR_NAME</h1>
+<h1>Hi there 👋</h1>
 <p>Full-stack Developer • Minimal design • Open source</p>
 
 <!-- Banner: สลับตามธีม -->
@@ -19,12 +19,7 @@
 
 ---
 
-### Stats
-<!-- light -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeine999&layout=compact&theme=default#gh-light-mode-only" alt="Top Langs Light" />
-
-<!-- Dark mode -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeine999&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs Dark" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeine999&layout=compact)
 
 <!-- Footer note -->
 <sub>Minimal • fast • accessible</sub>

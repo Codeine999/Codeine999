@@ -19,15 +19,12 @@
 
 ---
 
-### Pinned
-- <a href="https://github.com/YOUR_USERNAME/project-1">project-1</a> — small description
-- <a href="https://github.com/YOUR_USERNAME/project-2">project-2</a> — small description
-
----
-
 ### Stats
 <!-- light -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeine999&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeine999&layout=compact&theme=default#gh-light-mode-only" alt="Top Langs Light" />
+
+<!-- Dark mode -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeine999&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs Dark" />
 
 <!-- Footer note -->
 <sub>Minimal • fast • accessible</sub>

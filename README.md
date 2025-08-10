@@ -27,26 +27,7 @@
 
 ### Stats
 <!-- light -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&rank_icon=percentile&theme=default#gh-light-mode-only" alt="stats light" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default#gh-light-mode-only" alt="langs light" />
-
-<!-- dark -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&rank_icon=percentile&theme=dark#gh-dark-mode-only" alt="stats dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark#gh-dark-mode-only" alt="langs dark" />
-
----
-
-### Stack
-<!-- ทำ 2 ชุด (หรือใช้เวอร์ชันโมโนโครมเดียวให้จบ) -->
-<!-- Light -->
-<img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&labelColor=fff#gh-light-mode-only" />
-<img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&labelColor=fff#gh-light-mode-only" />
-<img src="https://img.shields.io/badge/Node.js-000?logo=nodedotjs&logoColor=339933&labelColor=fff#gh-light-mode-only" />
-
-<!-- Dark -->
-<img src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=3178C6&labelColor=0D1117#gh-dark-mode-only" />
-<img src="https://img.shields.io/badge/React-fff?logo=react&logoColor=61DAFB&labelColor=0D1117#gh-dark-mode-only" />
-<img src="https://img.shields.io/badge/Node.js-fff?logo=nodedotjs&logoColor=339933&labelColor=0D1117#gh-dark-mode-only" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeine999&layout=compact)
 
 <!-- Footer note -->
 <sub>Minimal • fast • accessible</sub>

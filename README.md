@@ -6,6 +6,7 @@
 ---
 
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codeine999&theme=github)
+![Skills](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Codeine999&theme=github)
 
 
 <!-- Footer note -->

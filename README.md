@@ -5,7 +5,9 @@
 
 ---
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codeine999&theme=github)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Codeine999&theme=github)
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codeine999&theme=github)
 
 
 

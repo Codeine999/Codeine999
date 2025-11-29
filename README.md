@@ -5,7 +5,8 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Codeine999)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codeine999&theme=github)
+
 
 
 

@@ -5,7 +5,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-git-master-orgazm.vercel.app/api/top-langs/?username=Codeine999&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Codeine999)
+
 
 
 <!-- Footer note -->

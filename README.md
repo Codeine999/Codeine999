@@ -5,7 +5,8 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeine999&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codeine999&layout=compact&cache_seconds=1)
+
 
 <!-- Footer note -->
 <sub>Minimal • fast • accessible</sub>

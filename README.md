@@ -5,7 +5,8 @@
 
 ---
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Codeine999&theme=github)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codeine999&theme=github)
+
 
 
 

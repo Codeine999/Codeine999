@@ -9,7 +9,7 @@
 
 ### Stack that i love
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,docker,mongodb,bun,nestjs,postgres,linux,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,go,docker,mongodb,bun,nestjs,postgres,linux,aws&theme=light" />
 </p>
 
 ---

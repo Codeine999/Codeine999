@@ -10,3 +10,7 @@
 
 <!-- Footer note -->
 <sub>Minimal • Lightweight • Sustainable</sub>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Codeine;Full+Stack+Developer;Building+Clean+Architecture+Systems;Go+%7C+TypeScript+%7C+Next.js" />
+</p>

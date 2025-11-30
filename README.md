@@ -7,15 +7,15 @@
 
 ---
 
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codeine999&theme=github)
+
+---
+
 ### Stack that i love
 <p>
   <img src="https://skillicons.dev/icons?i=ts,go,docker,mongodb,bun,nestjs,postgres,aws&theme=light" />
 </p>
-
----
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Codeine999&theme=github)
-
 
 <!-- Footer note -->
 <sub>Minimal • Lightweight • Sustainable</sub>
